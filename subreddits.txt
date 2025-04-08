@@ -1,2 +1,4 @@
+nsfw
+nsfw2
 cats
 dogs
